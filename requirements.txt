@@ -1,0 +1,5 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+pillow
+python-resize-image
